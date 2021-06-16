@@ -1,8 +1,16 @@
-# Hey você! 🖖
+<a href="https://storyset.com/rocket" title="Illustration by Freepik Storyset">
+  <img align="right" src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/To%20the%20stars-amico.svg" alt="a rocket on launch" width=45% height=45% />
+</a>
 
- ##### Meu nome é Otavio e sou estudante do curso de Análise e Desenvolvimento de Sistemas pela Faculdade Impacta Tecnologia. 
+# Hey you! 🖖
+
+ ##### I am Otavio, welcome to my github
  
- ##### Hoje trabalho como Técnico de Suporte - TI, mas estou focado em desenvolver-me estudando sobre linguagens e ferramentas para atuar como futuro Desenvolvedor Back-end. 👨‍💻
+ ###### - 🚀 I'm currently working as IT technical support
+ ###### - 💖 Also I'm an open source lover
+ ###### - 💻 And I'm currently focused to improve my skills as a Back-End Developer
+ ###### - 🔭 But I'm always open to discover new things
+ <br><br>
 
 ### 🛠️  Linguagens/Ferramentas
 <div style="display: inline_block">
@@ -18,4 +26,4 @@
 ### 📲 Social
 [![Linkedin Badge](https://img.shields.io/badge/-Otavio%20Gonçalves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otavio-goncalves/)](https://www.linkedin.com/in/otavio-goncalves/) 
 [![Github Badge](https://img.shields.io/badge/GitHub--000?style=social&logo=Github&logoColor=black&link=https://github.com/otaviowav)](https://github.com/otaviowav)
-[![Outlook Badge](https://img.shields.io/badge/email--000?style=social&logo=microsoft-outlook&logoColor=0078d4&link=mailto:hwe.otavio@hotmail.com)](hwe.otavio@hotmail.com)
+[![Outlook Badge](https://img.shields.io/badge/-hwe.otavio@hotmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hwe.otavio@hotmail.com)](mailto:hwe.otavio@hotmail.com)
