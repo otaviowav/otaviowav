@@ -7,7 +7,7 @@
  ##### I am Otavio, welcome to my github
  <br>
  
- - 🚀 I'm currently working as IT technical support
+ - 🚀 I'm currently working as IT Technical Support
  - 💖 Also I'm an open source lover
  - 💻 And I'm currently focused to improve my skills as a Back-End Developer
  - 🔭 But I'm always open to discover new things
