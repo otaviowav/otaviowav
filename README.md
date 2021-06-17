@@ -1,5 +1,5 @@
 <a href="https://storyset.com/rocket" title="Illustration by Freepik Storyset">
-  <img align="right" src="https://raw.githubusercontent.com/daltonmenezes/daltonmenezes/master/assets/To%20the%20stars-amico.svg" alt="a rocket on launch" width=51% height=51% />
+  <img align="right" src="https://imgur.com/87ITHCQ.png" alt="a rocket on launch" width=45% height=45% />
 </a>
 
 # Hey you! 🖖
