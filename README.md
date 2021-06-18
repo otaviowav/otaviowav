@@ -13,7 +13,7 @@
  - 🔭 But I'm always open to discover new things
  <br>
 
-### 🛠️  Languages/Tools
+### 🛠️  Actually, I'm learning:
 <div style="display: inline_block">
 <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
