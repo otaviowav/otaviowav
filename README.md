@@ -2,7 +2,7 @@
   <img align="right" src="https://imgur.com/IY0XDVk.png" alt="a rocket on launch" width=55% height=55% />
 </a>
 
-# Hey you! 🖖
+# Hey you! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
  #### I am Otavio, welcome to my github
  <br>
