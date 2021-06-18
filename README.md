@@ -1,5 +1,5 @@
 <a href="https://storyset.com/rocket" title="Illustration by Freepik Storyset">
-  <img align="right" src="https://imgur.com/IY0XDVk.png" alt="a rocket on launch" width=65% height=65% />
+  <img align="right" src="https://imgur.com/IY0XDVk.png" alt="a rocket on launch" width=55% height=55% />
 </a>
 
 # Hey you! 🖖
