@@ -1,10 +1,10 @@
 <a href="https://storyset.com/rocket" title="Illustration by Freepik Storyset">
-  <img align="right" src="https://imgur.com/87ITHCQ.png" alt="a rocket on launch" width=45% height=45% />
+  <img align="right" src="https://imgur.com/IY0XDVk.png" alt="a rocket on launch" width=65% height=65% />
 </a>
 
 # Hey you! 🖖
 
- ##### I am Otavio, welcome to my github
+ #### I am Otavio, welcome to my github
  <br>
  
  - 🚀 I'm currently working as IT Technical Support
@@ -20,9 +20,6 @@
 <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div><br>
-  
-### 📈 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=otaviowav&show_icons=true&theme=dark)
 
 ### 📲 Social
 [![Linkedin Badge](https://img.shields.io/badge/-Otavio%20Gonçalves-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/otavio-goncalves/)](https://www.linkedin.com/in/otavio-goncalves/) 
