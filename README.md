@@ -5,13 +5,12 @@
 # Hey you! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px>
 
  #### I am Otavio, welcome to my github
- <br>
  
  - 🚀 I'm currently working as IT Technical Support
  - 💖 Also I'm an open source lover
  - 💻 And I'm currently focused to improve my skills as a Back-End Developer
  - 🔭 But I'm always open to discover new things
- <br>
+
 
 ### 🛠️  Languages/Tools:
 <div style="display: inline_block">
